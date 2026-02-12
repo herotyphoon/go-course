@@ -1,6 +1,6 @@
 # Introduction
 
-- It is a statically typed language with added features of memory safety and garbage collection.
+- It is a statically and strong typed language with added features of memory safety and garbage collection.
 - It is a highly efficient language, specially for multi-core processors.
 - Go programs are compiled in binary thus it can be run on any device without any installation or dependencies.
 
