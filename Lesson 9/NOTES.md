@@ -1,6 +1,6 @@
 # Operators
 
-- Operators are symbols that perform arithemetic and logical operations.
+- Operators are symbols that perform arithmetic and logical operations.
 - Operation is performed on operands.
 - Binary operators perform operation on two operands while unary operators perform operations on one operand.
 
@@ -14,7 +14,7 @@
 | \*       | less than equal | \*a get the value at address of a  |
 | <-       | greater than    | <-a recieves value from channel a  |
 
-## Arithemetic Operators
+## Arithmetic Operators
 
 | Operator | Operation  | Types                                           |
 | -------- | ---------- | ----------------------------------------------- |
