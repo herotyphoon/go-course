@@ -1,1 +1,1 @@
-# Arithemetic Operators
+# Arithmetic Operators
